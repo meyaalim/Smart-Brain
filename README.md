@@ -1,6 +1,4 @@
-<p align="center" style="font-weight:bolder">
-Smart-Brain
-</p>
+#                                                   Smart-Brain
 <p align="center">
   <img src="https://github.com/meyaalim/Smart-Brain/blob/main/src/components/Logo/brain.png" alt="Smart-Brain"/>
 </p>
