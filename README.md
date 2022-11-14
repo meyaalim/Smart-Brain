@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-weight:bolder">
 Smart-Brain
 </p>
 <p align="center">
